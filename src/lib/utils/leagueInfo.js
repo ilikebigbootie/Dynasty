@@ -1,17 +1,26 @@
 /*   STEP 1   */
-export const leagueID = "1082087863652626432"; // your league ID
-export const leagueName = "Dynasty Boys 😤"; // your league name
+export const leagueID = "1182871210424737792"; // your league ID
+export const leagueName = "Welcome to Dynasty Boys 😤"; // your league name
 export const dues = 50; // (optional) used in template constitution page
 export const dynasty = true; // true for dynasty leagues, false for redraft and keeper
 export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>🧠 League Facts:</p>
-  <p>  •    Founded by men who take mock drafts more seriously than their jobs</p>
-  <p>  •    Notable scandals: Lamargate, The Bijan Heist, and The Great Waiver Robbery of 2023</p>
+  <p>Where grown men ruin friendships over fake football.</p>
+  <p> Meet the Methheads that call themsleves "Champions🔥"</p>
+  <p> Waddle Deez Nutz runs the league like a dictator — dropping 200 bombs just to flex on peasants.</p>
+  <p>Jer_goff_all_wizard$ peaked years ago and has been living off nostalgia and draft regrets ever since.</p>
+  <p>Skatt(ebo) Pakk thinks he’s built different, but his “dynasty” has more cracks than his waiver strategy.</p>
+  <p>Get Goff My Lawn is basically hospice care for washed-up veterans.  Lab(“R”ador Retrievers) are the league’s emotional support team — always there to make your squad look better by comparison.
+  <p>Sign Stallions cheat, win, and somehow still play the victim.</p>
+  <p>And Degen-tleman? More like Degen’tle-win — Lamar’s carrying that corpse week after week.</p>
+  <p>Notable scandals:  
+  <p>  •    Lamargate </p>
+  <p>  •    The Great Travis Kelce Heist</p>
+  <p>  •    Anti Superflex movement of 2024</p>
   
-`;
+   `;
 
 /*   STEP 3   */
 /*
