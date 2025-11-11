@@ -8,9 +8,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 /*   STEP 2   */
 export const homepageText = `
   <p>🧠 League Facts:</p>
-  <p>  •    8-Team PPR Superflex Dynasty League</p>
   <p>  •    Founded by men who take mock drafts more seriously than their jobs</p>
-  <p>  •    Current champion: Ilikebigbootie</p>
   <p>  •    Notable scandals: Lamargate, The Bijan Heist, and The Great Waiver Robbery of 2023</p>
   
 `;
